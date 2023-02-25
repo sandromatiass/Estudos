@@ -9,19 +9,35 @@
         <link href="./assets/css/normalize.css" rel="stylesheet" />
         <link href="./assets/css/reset.css" rel="stylesheet" />
         <link rel="stylesheet" href="./assets/css/style.css">
+        <link rel="stylesheet" href="./assets/css/menu/cabecalho.css">
+        <link rel="stylesheet" href="./assets/css/menu/menu_item.css">
+        <link rel="stylesheet" href="./assets/css/menu/menu_link.css">
+        <link rel="stylesheet" href="./assets/css/banner/banner.css">
+        <link rel="stylesheet" href="./assets/css/banner/banner-imagem.css">
+        <link rel="stylesheet" href="./assets/css/banner/banner-titulo.css">
     </head>
     <body>
-        <header>
-            <img src="./assets/img/logo.jpg" alt="Fruto e Fruto">
-            <nav>
-                <ul>
-                    <li><a href="#" id="ativo">Ínicio</a></li>
-                    <li><a href="#">Receitas</a></li>
-                    <li><a href="#">Quem somos</a></li>
-                    <li><a href="#">Comunidade</a></li>
+        <header class="cabecalho">
+            <img class="logo" src="./assets/img/logo.jpg" alt="Fruto e Fruto">
+            <nav class="menu">
+                <ul class="menu__lista">
+                    <li class="menu__item"><a class="menu__link ativo" href="#" id="ativo">Início</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Receitas</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Quem somos</a></li>
+                    <li class="menu__item"><a class="menu__link" href="#">Comunidade</a></li>
                 </ul>
             </nav>
             </img>
         </header>
+        <main>
+            <section class="banner">
+                <img class="banner__imagem" src="./assets/img/banner.jpg" alt="Banner da loja">
+                <h2 class="banner__titulo">Reaproveite melhor os alimentos!</h2>
+            <section class="sobre">
+                <h2 class="sobre__titulo">Receitas para economizar e ganhar saúde</h2>
+                <p class="sobre__descricao">Nossas receitas ajudam você a aproveitar melhor os alimentos, economizar, ganhar tempo e praticidade</p>
+            </section>
+            </section>
+        </main>
     </body>
 </html>
