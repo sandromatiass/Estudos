@@ -1,0 +1,27 @@
+.container_list{
+    width: 50%;
+    border-left: 1px solid #8d060649; 
+ }
+ 
+ .titulo__tarefas {
+     font-family: 'Dancing Script', cursive;
+     text-align: center;
+     margin-top: 3rem;
+     color: #8d0606;
+     font-size: 3.5rem;
+ }
+ 
+ .tarefas__itens { /*TODAS AS CONFIGURAÇÕES DE UL*/
+     display: flex;
+     align-items: center;
+     flex-wrap: wrap;
+     justify-content: center;
+     width: 100%;
+     gap: 1rem;   
+ 
+     color: #8d0606;
+     text-decoration: none;
+     text-transform: uppercase;
+     font-weight: 600;
+ }
+

@@ -18,7 +18,7 @@ const tarefaConcluida = (evento) => {
     
     const tarefaConcluida = botaoConcluir.parentElement;
 
-    tarefaConcluida.classList.toggle("estiloConcluido", "botaoClicado"); 
+    tarefaConcluida.classList.toggle("jsBtnConcluir"); 
 }
 
 

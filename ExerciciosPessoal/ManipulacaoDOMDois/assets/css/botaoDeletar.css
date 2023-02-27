@@ -1,0 +1,10 @@
+.botaoDeletar {
+    width: 6rem;
+    height: 2rem;
+    border: 0;
+    border-radius: 5px;
+    font-size: .9rem;
+    color: #8d0606;
+    font-weight: 600;
+    cursor: pointer;
+}

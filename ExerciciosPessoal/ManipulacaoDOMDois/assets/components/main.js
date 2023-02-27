@@ -1,4 +1,5 @@
 import BotaoConcluir from "./botaoConcluir.js"
+import BotaoDeletar from "./botaoDeletar.js"
 
 const criandoTarefas = (evento) => {
     
@@ -15,6 +16,7 @@ const criandoTarefas = (evento) => {
     criaTarefas.innerHTML = criaLista;
     criaIntes.appendChild(criaTarefas);
     criaTarefas.appendChild(BotaoConcluir());
+    criaTarefas.appendChild(BotaoDeletar());
     txtArea.value = " ";
 }
 

@@ -6,23 +6,16 @@
     font-size: .9rem;
     color: #8d0606;
     font-weight: 600;
-    transition: .3s;
-}
-
-.botaoConcluir:hover {
-    background-color: #8d0606;
-    color: aliceblue;
     cursor: pointer;
 }
 
 
-.botaoConcluir{
-    width: 6rem;
-    height: 2rem;
-    border: 0;
-    border-radius: 5px;
-    font-size: .9rem;
-    color: #216610;
-    font-weight: 600;
-}
+.tarefas__itens.jsBtnConcluir .botaoConcluir{
+    background-color: #8d0606;
+    color: aliceblue;
+ }
 
+ .tarefas__itens.jsBtnConcluir p{
+    text-decoration: line-through;
+    color: grey;
+ }

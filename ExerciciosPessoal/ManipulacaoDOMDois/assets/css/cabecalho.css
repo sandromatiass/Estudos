@@ -1,0 +1,19 @@
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(243, 236, 227);
+}
+
+.cabecalho__imagem{
+    width: 60px;
+}
+
+.titulo {
+    font-family:'Dancing Script', cursive;
+    font-weight: 700;
+    color: #8d0606;
+    margin: 0;
+    font-size: 3rem;
+}
