@@ -1,21 +1,19 @@
-.principal {
+.corp{
     display: flex;
-    justify-content: space-between;
-    height: calc(100vh - 80px);
+    justify-content: space-around;
 }
 
 .form__itens {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1.4rem;
-    margin-top: 15rem;
-    margin-left: 8rem;
+    gap:1rem;
+    margin-top: 50%;
 }
 
 .areadetexto {
-    width: 25rem;
-    height: 3rem;
+    width: 50vh;
+    height: 2.5rem;
     border-radius: 5px;
     border: 1px solid rgba(150, 150, 150, 0.637);   
 }
@@ -38,6 +36,13 @@
 }
 
 
+ @media screen and (min-width:0px) {
+    .corp {
+        flex-direction: column;
+        justify-content: center;
+        margin: 0;
+    }
 
+}
 
 
