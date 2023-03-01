@@ -1,5 +1,5 @@
 .container_list{
-    margin-right: 5rem;
+    margin-right: 15rem;
     justify-content: space-around;
 
 }
@@ -48,6 +48,7 @@
  .container_list {
     margin-top: 50px;
     margin-left: 0;
+    margin-right: 0;
  }
 
 }

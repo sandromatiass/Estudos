@@ -1,8 +1,8 @@
 .principal {
     display: flex;
-    justify-content: space-around;
-    flex-direction: row;
+    justify-content: space-between;
 }
+
 
 .form__itens {
     display: flex;
@@ -38,7 +38,7 @@
 }
 
 
- @media screen and (min-width:0px) {
+@media screen and (min-width:0px) and (max-width:768px) {
     .principal {
         flex-direction: column;
         justify-content: center;
