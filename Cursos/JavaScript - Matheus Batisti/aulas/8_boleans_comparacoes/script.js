@@ -1,0 +1,7 @@
+console.log(8 > 6)
+console.log(8 < 6)
+console.log(8 >= 8)
+console.log(8 <= 7)
+console.log(8 == 8)
+console.log(8 != 8)
+console.log('sandro' === 'sandro')

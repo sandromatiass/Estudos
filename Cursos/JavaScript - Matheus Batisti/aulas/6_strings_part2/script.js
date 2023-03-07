@@ -1,0 +1,5 @@
+console.log('testando quebra \n de linhas')
+console.log("O MEU NOME E 'SANDRO'")
+console.log('O meu nome é "Sandro"')
+console.log(`A soma de 2 por 3 é ${2*3}`)
+console.log("sandro" + " matias" + " dev")
