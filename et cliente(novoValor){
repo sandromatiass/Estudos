@@ -1,0 +1,215 @@
+[33mcommit 5e48a9e5ad4359a78d469f7fa6ba19d85f05faf0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Thu Mar 9 22:37:34 2023 -0300
+
+    Iniciando novo modulo de interfaces de Herança em Orientação a Objetos
+
+[33mcommit 1d83f185df6c2ec3877f96c48e95b4c5c415865c[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Thu Mar 9 22:06:57 2023 -0300
+
+    Inciando 2_Modulo JavaScript Matheus Batisti
+
+[33mcommit d5eadeade9cdbf7e131d49752032151a2b103499[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Tue Mar 7 23:45:31 2023 -0300
+
+    Finalizado Curso JavaScript programando a Orientação a Objetos
+
+[33mcommit 0063f711f5eafa97a3f6b39f836d07573ae22076[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Tue Mar 7 15:17:44 2023 -0300
+
+    Organizando pastas
+
+[33mcommit c8514b94011b8226cb64e50c9a98e4495c552b74[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Tue Mar 7 12:55:29 2023 -0300
+
+    Iniciando curso JavaScript Matheus Batisti
+
+[33mcommit 1cb58f9137003cd94fac9f0e6860fd7c27b7d994[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Mon Mar 6 23:10:50 2023 -0300
+
+    Algumas alterações realizadas o códido e criação de modules
+
+[33mcommit a9564046d4177a6a8c0b51ff2a6fdabab8490dc1[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Mon Mar 6 21:27:11 2023 -0300
+
+    Iniciando curso JavaScript: programando a Orientação a Objetos
+
+[33mcommit c1d40f8a479f8d5a4925c5692468b55dddbab4ef[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sun Mar 5 03:42:11 2023 -0300
+
+    Finalizando curso de validação de formulário
+
+[33mcommit ff4dadd3668d9de86cc324e158b37214cd2cdb5c[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Mar 4 22:10:48 2023 -0300
+
+    Iniciando validação de cpf no formulário.
+
+[33mcommit 55d4451cd421241d88c539f04d15c67fa5894a2a[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Mar 4 01:57:51 2023 -0300
+
+    Finalizando mensagens de erro customizadas.
+
+[33mcommit 20f0552655a017fcddeb5507b40d5862235de939[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Fri Mar 3 23:47:05 2023 -0300
+
+    Iniciando segunda parte de validação de formulário
+
+[33mcommit fef662efeb5e12980728b234ea4858a094d59ae8[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Thu Mar 2 23:17:02 2023 -0300
+
+    Iniciando curso Validação de Formulário
+
+[33mcommit e3d224f3b8f4bf9c740c0b9c7d74d3cc996c05f9[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Wed Mar 1 15:13:17 2023 -0300
+
+    Corrigindo responsividade.
+
+[33mcommit ac18dc6f63be6b94ccffb23c231e70d7f8fccba1[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Wed Mar 1 14:20:40 2023 -0300
+
+    Finalizado responsividade
+
+[33mcommit 417fbc1bc8f89c313e804aca3902a189463c24e9[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Mon Feb 27 23:04:16 2023 -0300
+
+    Exportando arquivos
+
+[33mcommit 7a61e0f08d59d1fac9fc293c56cf969a342857e3[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Mon Feb 27 17:13:11 2023 -0300
+
+    Finalizado aplicativo desktop e suas regras, inicializando responsividade.
+
+[33mcommit 1d333b718b3557848ad99a212bd55c2277eec256[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sun Feb 26 17:58:37 2023 -0300
+
+    Iniciando Exercicio pessoal do ultimo curso
+
+[33mcommit 5794635c61f97b3c9110a6bda2735201c78ff507[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sun Feb 26 02:27:45 2023 -0300
+
+    Inciando novo curso JavaScript Validação de Formulario
+
+[33mcommit 9df03247abf09b5b90a959a5e56acb029c6fa637[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sun Feb 26 02:19:35 2023 -0300
+
+    Exercicio simples finalizado
+
+[33mcommit 71336c20aa89824c71623a5a77ad07d113ea520d[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 23:01:35 2023 -0300
+
+    Finalizando curso De manipulação do DOM.
+
+[33mcommit 450fc34ce166833ff44ebd996f785cf00b571601[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 19:53:53 2023 -0300
+
+    Iniciando curso Manipulando de DOM
+
+[33mcommit 046a0705b21e7979dd3b35b1cece123677e1b374[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 18:20:27 2023 -0300
+
+    Iniciando estudos JavaScript
+
+[33mcommit e7bde2ab9c9d9ce4b045d48b755320806139fab7[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 03:43:21 2023 -0300
+
+    Organizando pastas
+
+[33mcommit 562f8f33e3ee2847cf0e07ac321937ae894d3614[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 03:36:03 2023 -0300
+
+    Finalizado responsividade, com isso o curso foi finalizado.
+
+[33mcommit 3cb3aeabd5c384105027644241eb92a11c002107[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 02:33:17 2023 -0300
+
+    Finalizado toda estrutura e estilização, vamos começar a responsividade.
+
+[33mcommit 71838d828d3f952afcf1b16c376f1836d3fcce3f[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 02:27:32 2023 -0300
+
+    Adicionando e estilizando footer
+
+[33mcommit 43b6fc4fc39f685c8c3d9ca29c0b5da6683ad323[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 02:20:28 2023 -0300
+
+    Finalizado a parte de quem somos e reajustado orde alfabética na css e corrigindo imagem ilustrativa do banner.
+
+[33mcommit c50af1482d498d9646fc1cb086a453b0e6ec9f06[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 01:27:48 2023 -0300
+
+    Adicionando seção de quem somos
+
+[33mcommit 3709396df2387107d2490f59f9b034cd44683076[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 01:26:54 2023 -0300
+
+    Finalizando a estilização das receitas
+
+[33mcommit b4d2082ca50aa594e9b08704d6a4cb0b27a987cd[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 01:02:12 2023 -0300
+
+    Adicionando seção no html de receitas, e iniciando sua estilização
+
+[33mcommit a36d7e19effb43dd38e18dc8a009e6d6090dc51c[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 00:50:25 2023 -0300
+
+    Estilizando a seção sobre da tela
+
+[33mcommit e0f64b926e9b43af04bf2be8fde714a868d4e176[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Sat Feb 25 00:40:05 2023 -0300
+
+    Adicionando sessão e estilizando Banner
+
+[33mcommit 4083791f23f8dd5b36e547b19aa928f0eaa65888[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Fri Feb 24 15:37:18 2023 -0300
+
+    Iniciando estilização de header criando menu sem utilizar seletores
+
+[33mcommit a07c58bb1a4b0990e843197686f0a8e23d1f3f2d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: Sandro Matias NoteBook <devsandromatias@gmail.com>
+Date:   Fri Feb 24 12:52:01 2023 -0300
+
+    Iniciando curso de Arquitetura CSS Assets Alura
+
+[33mcommit ee9b7cda4828db098cd65cf191772c2ba9ded0c5[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Fri Feb 24 00:22:13 2023 -0300
+
+    Renomeando pasta para evitar conflitos
+
+[33mcommit c58112078da6603f8ac7d1b7dfb4731162eef369[m
+Author: Sandro Matias <devsandromatias@gmail.com>
+Date:   Fri Feb 24 00:18:12 2023 -0300
+
+    Curso layouts responsivos finalizado
