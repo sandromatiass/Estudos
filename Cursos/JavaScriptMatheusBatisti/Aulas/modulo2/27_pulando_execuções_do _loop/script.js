@@ -1,5 +1,5 @@
 /*
-    Enquanto x for menor que 11 executar a função do codigo abaixo bulando apenas
+    Enquanto x for menor que 11 executar a função do codigo abaixo pulando apenas
     os valores que obtiverem o resultado do resto da  divisão == 0
     ele so numero par ele pula 
     mostrando apenas os impares
