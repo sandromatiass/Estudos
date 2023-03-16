@@ -4,9 +4,8 @@ import { Conta } from "./Conta.js";
 
 export class ContaCorrente extends Conta{
     static numeroDeContas = 0;
-    constructor(cliente, agencia){
-        //Chamando o construtor 
+    constructor(cliente, agencia) {
         super(0, cliente, agencia);
-       ContaCorrente.numeroDeContas += 1;
+        ContaCorrente.numeroDeContas += 1;
     }
 }
