@@ -25,3 +25,11 @@ for(let i = 10; i > 0; i--){
     }
     console.log(i);
 }
+
+for(let y = 0; y < 10; y++) {
+    if(y % 2 == 0) {
+    console.log("ainda não");
+    continue;
+    }
+    console.log(`agora sim ${y}`)
+}
