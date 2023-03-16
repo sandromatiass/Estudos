@@ -1,6 +1,6 @@
-let sandro = (typeof "sandro");
-let idade = (typeof 26);
-let sexoMasculino = (typeof true);
+let sandro = "sandro";
+let idade = 26;
+let sexoMasculino = true;
 
 
-console.log(sandro, idade, sexoMasculino);
+console.log(typeof sandro, typeof idade, typeof sexoMasculino);
