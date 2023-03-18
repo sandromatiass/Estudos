@@ -6,7 +6,16 @@ import { SistemaAutenticacao } from "./SistemaAutenticacao.js";
 const diretor = new Diretor ("Sandro", 10000, 12643452444);
 diretor.cadastrarSenha("123456");
 const gerente = new Gerente ("Neto", 5000, 12547596520);
-gerente.cadastrarSenha("123")
-const estaLogado = SistemaAutenticacao.login(gerente, "123")
+gerente.cadastrarSenha("123");
 
-console.log(estaLogado)
+const cliente = new Cliente ("Danne", 15935745612, "456");
+
+const gerenteEstaLogado = SistemaAutenticacao.login(gerente, "123");
+const diretorEstaLogado = SistemaAutenticacao.login(diretor, "123456");
+
+const clienteEstaLogado = SistemaAutenticacao.login(cliente, "456")
+
+console.log(gerenteEstaLogado);
+console.log(diretorEstaLogado);
+console.log(clienteEstaLogado);
+
