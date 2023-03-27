@@ -9,4 +9,4 @@ function informeSuaIdade(idade) {
 informeSuaIdade(28);
 informeSuaIdade(28);
 informeSuaIdade(8);
-informeSuaIdade(1)
+informeSuaIdade(1);
