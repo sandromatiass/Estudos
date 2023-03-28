@@ -1,0 +1,32 @@
+.botaoConcluir {
+    width: 6rem;
+    height: 2rem;
+    border: 0;
+    border-radius: 5px;
+    font-size: .9rem;
+    color: #8d0606;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.botaoConcluir:hover{
+    box-shadow: 0px 0px 1px 2px rgba(133, 131, 131, 0.178);
+}
+
+.tarefas__itens.jsBtnConcluir .botaoConcluir{
+    background-color: #8d0606;
+    color: aliceblue;
+ }
+
+ .tarefas__itens.jsBtnConcluir p{
+    text-decoration: line-through;
+    color: grey;
+ }
+
+@media screen and (min-width:0px) and (max-width: 767px) {
+    .botaoConcluir {
+        width: 4.5rem;
+        height: 2rem;
+        font-size: .7rem;
+    }
+}

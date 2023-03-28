@@ -1,0 +1,54 @@
+.container_list{
+    margin-right: 15rem;
+    justify-content: space-around;
+
+}
+
+.titulo__tarefas {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-top: 1rem;
+    color: #8d0606;
+    font-size: 3.5rem;
+ }
+ 
+ .tarefas__itens { 
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 1rem;   
+    padding-bottom: 3px;
+    color: #8d0606;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+ }
+
+@media screen and (min-width: 0px) and (max-width:768px) {
+    .container_list{
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    .titulo__tarefas {
+        font-size: 3rem;
+    }
+
+    .tarefas__itens {
+        gap: .3rem;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px) { 
+ .container_list {
+    margin-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+ }
+
+}
