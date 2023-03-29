@@ -1,19 +1,45 @@
-//abrindo comunicação com api
+const criaNovaLinha = (nome, email) => {
+    const linhaNovoCliente = document.createElement('tr')
+    
+    const conteudo = `
+    
+    <td class="td" data-td>${nome}</td>
+    <td>${email}</td>
+    <td>
+        <ul class="tabela__botoes-controle">
+            <li><a href="../telas/edita_cliente.html" class="botao-simples botao-simples--editar">Editar</a></li>
+            <li><button class="botao-simples botao-simples--excluir" type="button">Excluir</button></li>
+        </ul>
+    </td> 
 
-//Inicialisando arquivo xml como vai utilizar varias vezes foi criado uma constate
-const http = new XMLHttpRequest();
-
-//abrindo a comunicação usando metodo open
-// aqui ele pega as informações do servidor
-http.open('GET', 'http://localhost:3000/profile')
-
-//e aqui ele envia
-http.send();
-
-//onload ao carregar a pagina
-http.onload = () => {
-    const data = http.response
-    console.log(object)
+    `
+    linhaNovoCliente.innerHTML = conteudo
+    return linhaNovoCliente
 }
 
-//simular um serviço de api e == a mockar estudar mais sobre
+const tabela = document.querySelector('[data-tabela]')
+
+const listaClientes = () => {
+    const promise = new Promise((resolve, reject) => {
+        const http = new XMLHttpRequest()
+        http.open('GET', 'http://localhost:3000/profile')
+    
+        http.onload = () => {
+            if(http.status >= 400){
+                reject(JSON.parse(http.response));
+            }else {
+                resolve(JSON.parse(http.response));
+            }
+        }
+        http.send();
+    })
+    return promise
+}
+
+
+listaClientes()
+.then(data =>{
+    data.forEach(elemento => {
+    tabela.appendChild(criaNovaLinha(elemento.nome, elemento.email))    
+    })
+})
